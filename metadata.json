@@ -1,0 +1,6 @@
+{
+  "name": "Mafia Noir",
+  "description": "A real-time, serverless P2P Mafia game with Night/Day phases and role-based gameplay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["real-time multiplayer"]
+}
